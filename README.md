@@ -5,4 +5,4 @@
 ### Presentation in DUT,China
 
 ![Torsion Example](https://github.com/dlutleixin/MMC_in_PETSc/blob/master/torsion_exaple.png)
-### Visulization using Paraview(We are developing visulization using UG based on one of the most important advantages of MMC:Explicit Boundary Description)
+### Visulization using Paraview ( We are developing visulization using UG based on one of the most important advantages of MMC:Explicit Boundary Description )
